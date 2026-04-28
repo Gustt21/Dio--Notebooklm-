@@ -60,9 +60,3 @@ Abaixo, documento a evolução da minha interação com a IA. Note que o segredo
 * *"Gere 5 perguntas de múltipla escolha sobre orquestração de containers para testar meu conhecimento."*
 
 ---
-
-## 🛠️ Como replicar este projeto?
-1. Acesse o [NotebookLM](https://notebooklm.google.com/).
-2. Faça o upload dos PDFs/Links listados na seção de Curadoria.
-3. Utilize os prompts da seção "Engenharia de Prompts" para gerar insights.
-4. Organize suas descobertas neste repositório!
